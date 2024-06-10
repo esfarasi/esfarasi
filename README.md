@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @esfarasi
+- 👋 Hi, I’m Faraz Suwarndurgkar
 - 👀 I’m interested in developing Events based applications for events happeining in the hot middle east.
 - 🌱 I’m currently learning Cloud technologies.
 - 💞️ I’m looking to collaborate on ...
